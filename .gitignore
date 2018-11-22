@@ -109,3 +109,5 @@ env.yaml
 # vim swap file
 *swp
 *swo
+
+.DS_Store
